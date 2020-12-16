@@ -1,0 +1,4 @@
+Package: erlang* esl-erlang*
+Pin: version 1:21.3.8.17-1
+Pin-Priority: 1000
+
