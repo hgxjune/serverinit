@@ -1,0 +1,3 @@
+# compilation options
+KERL_CONFIGURE_OPTIONS="--without-javac --enable-kernel-poll --enable-threads --enable-smp-support --enable-hipe --with-ssl"
+
